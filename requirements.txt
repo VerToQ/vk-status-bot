@@ -1,0 +1,5 @@
+vk-api
+psycopg2-binary
+flask
+gunicorn
+python-dotenv
