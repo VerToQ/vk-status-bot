@@ -1,1 +1,1 @@
-л
+#vk-status-bot
